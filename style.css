@@ -1,0 +1,536 @@
+header {
+    font-weight: bold;
+    font-size: 25px;
+    padding: 0;
+    font-family: cursive;
+
+}
+
+body {
+    margin: 0;
+    background-color: black;
+    padding: 0;
+
+
+
+}
+
+
+
+.tit {
+    padding: 7px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+
+.put {
+    background-color: #8cc63f;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 2px 10px;
+    font-size: 13px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+
+}
+
+.put:hover {
+    background-color: #7ab336;
+}
+
+
+.creativo {}
+
+.creative {
+    background-color: rgb(31, 30, 30);
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+
+
+
+
+
+}
+
+
+.s1 {
+    color: rgb(12, 228, 195);
+    font-family: sans-serif;
+}
+
+
+.s2 {
+    color: aliceblue;
+    letter-spacing: 2px;
+    margin-top: -27px;
+    font-size: 10px;
+}
+
+.menu {
+    list-style: none;
+    margin-right: 200px;
+    color: white;
+
+
+}
+
+.menu li {
+    font-size: 10px;
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.logo-txt {
+    margin-left: 200px;
+}
+
+.search {
+    width: 15px;
+    padding-left: 10px;
+
+
+
+
+
+}
+
+.photoPort {
+    position: relative;
+    left: 900px;
+    height: 450px;
+
+
+
+    bottom: 300px;
+
+    width: 25%;
+
+
+
+
+
+}
+
+
+.creative-agency {
+    color: rgb(12, 228, 195);
+    font-family: sans-serif;
+
+}
+
+.we-are {
+
+    font-family: sans-serif;
+
+}
+
+.script {
+    margin-left: 200px;
+
+
+}
+
+.script2 {
+    margin-left: 200px;
+    position: relative;
+    bottom: 200px;
+
+
+
+
+}
+
+.script2 .lorem {
+    line-height: 30px;
+
+}
+
+
+.lorem {
+    font-size: 8px;
+    line-height: 15px;
+
+}
+
+.about {
+    position: relative;
+    padding-top: 40px;
+
+    font-size: 10px;
+    display: flex;
+
+}
+
+.line {
+    width: 40px;
+    height: 2px;
+    background-color: #75d8c2;
+
+}
+
+.gr1 {
+    grid-template-columns: repeat(2, 1fr);
+    display: grid;
+    grid-gap: 20px;
+    text-align: center;
+
+    padding: 20px;
+    position: relative;
+    left: 400px;
+    bottom: 300px;
+
+
+
+
+}
+
+.gr1 div:hover {
+    background-color: #75d8c36c;
+    border-radius: 10%;
+
+}
+
+.photo1 {
+    width: 45px;
+}
+
+.section2 {
+    display: flex;
+    position: relative;
+    bottom: 200px;
+
+}
+
+.section2 h2 {
+    font-size: 30px;
+
+}
+
+.sec2 {
+    display: flex;
+    position: relative;
+    top: 380px;
+    right: 400px;
+
+
+
+}
+
+
+
+
+
+.frontGround img {
+    position: relative;
+    object-fit: cover;
+
+
+}
+
+.frontGroundLeft img {
+    position: relative;
+    object-fit: cover;
+    right: 218px;
+
+    position: relative;
+    z-index: 0;
+
+
+
+
+}
+
+
+
+
+
+.prova {
+    grid-template-columns: repeat(4, 1fr);
+    display: grid;
+    grid-gap: 180px;
+    text-align: center;
+
+    padding: 20px;
+    position: relative;
+
+
+}
+
+.prova2 {
+    grid-template-columns: repeat(5, 1fr);
+    display: grid;
+    grid-gap: 50px;
+
+    padding: 20px;
+    position: relative;
+
+
+}
+
+.prova2 {
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+
+
+
+.terzoSec2 {
+    grid-template-columns: repeat(4, 1fr);
+    display: grid;
+    grid-gap: 44px;
+    text-align: center;
+
+
+    position: relative;
+
+    margin: 0;
+    padding: 0;
+
+
+
+
+}
+
+.terzoSec2 img {
+    display: block;
+    width: 300px;
+}
+
+.quarto {
+    position: relative;
+    top: 100px;
+
+
+}
+
+.dueImag {
+    grid-template-columns: repeat(4, 1fr);
+    display: grid;
+    grid-gap: 40px;
+
+}
+
+.io {}
+
+.io2 {
+    position: relative;
+    left: 500px;
+
+    top: 200px;
+
+
+}
+
+
+
+body {
+    background-color: #0c0c0c;
+    color: #bfbfbf;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.frontGroundLeft2 img {
+    position: relative;
+    object-fit: cover;
+
+    top: 150px;
+    left: 15px;
+
+
+
+}
+
+.team-section {
+    text-align: center;
+    position: relative;
+    bottom: 330px;
+    padding-bottom: 100px;
+
+
+}
+
+.subtitle {
+    color: #6ce3c3;
+    letter-spacing: 5px;
+    font-weight: 600;
+    font-size: 10px;
+    margin-bottom: 20px;
+}
+
+.title {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0;
+}
+
+.title span {
+    color: #6ce3c3;
+}
+
+.underline {
+    width: 80px;
+    height: 3px;
+    background-color: #6ce3c3;
+    margin: 25px auto;
+    border-radius: 2px;
+}
+
+.underline2 {
+    width: 80px;
+    height: 3px;
+    background-color: #6ce3c3;
+    margin: 25px auto;
+    border-radius: 2px;
+    position: relative;
+
+}
+
+.description {
+    color: #aaa;
+    font-size: 8px;
+    max-width: 700px;
+    margin: auto;
+    line-height: 1.6;
+
+
+}
+
+.frontGroundLeft3 {
+    position: relative;
+    left: 216px;
+    max-width: 100px;
+    bottom: 400px;
+}
+
+.four-block img {
+    width: 200px;
+    height: 200px;
+
+}
+
+.four-block {
+    grid-template-columns: repeat(2, 1fr);
+    display: grid;
+    grid-gap: 40px;
+    text-align: center;
+    max-width: 100px;
+    position: relative;
+    left: 300px;
+    bottom: 886px;
+
+
+}
+
+.pol {
+    display: flex;
+    background-color: rgba(128, 128, 128, 0.316);
+    width: 400px;
+}
+
+.subSub {
+    color: #6ce3c3;
+}
+
+.pos34 {
+    position: relative;
+    bottom: 500px;
+}
+
+.nineFoto {
+    grid-template-columns: repeat(3, 1fr);
+    display: grid;
+    grid-gap: 2px;
+    text-align: center;
+
+    padding: 20px;
+    position: relative;
+    left: 18%;
+    bottom: 920px;
+    max-width: 300px;
+
+}
+
+.nineFoto img {
+    width: 300px;
+}
+
+.about12 {
+    max-width: 100px;
+    z-index: 10;
+}
+
+.we-are2 {
+
+    font-family: sans-serif;
+    position: relative;
+    left: 16%;
+    max-width: 400px;
+    bottom: 1200px;
+
+}
+
+.pos345 {
+    position: relative;
+    top: 200px;
+    left: 250px;
+}
+
+.description2 {
+    font-size: 10px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+}
+
+.final1 img {
+    width: 300px;
+
+
+}
+
+.final1 {
+    grid-template-columns: repeat(3, 1fr);
+    display: grid;
+    grid-gap: 20px;
+    text-align: center;
+
+    padding: 20px;
+    position: relative;
+    left: 8%;
+    bottom: 20px;
+    max-width: 300px;
+
+
+
+}
+
+.pos3456 {
+    display: flex;
+    text-align: left;
+    position: relative;
+    bottom: 1497px;
+    left: 600px;
+    max-width: 400px;
+}
+
+.ush span {
+    color: #75d8c2;
+
+}
+
+.ush ul {}
